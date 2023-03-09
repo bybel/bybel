@@ -1,8 +1,10 @@
+**WELCOME TO THIS WONDERFUL PROFILE**
+
 - 👋 Hi, I’m @bybel
-- 👀 I’m interested in music and stuff
+- 👀 I’m interested in music
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on music or code
-- 📫 How to reach me : raphael.fluckiger@epfl.ch or @Raphonics on soundcloud
+- 📫 How to reach me : raphael.fluckiger@epfl.ch or raphael.fluckiger@gmail.com
 
 <!---
 bybel/bybel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
