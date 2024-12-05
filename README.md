@@ -1,12 +1,12 @@
 **WELCOME TO THIS WONDERFUL PROFILE**
 
-- 👋 Hi, I’m @bybel
-- 👀 I’m interested in **music**
-- 🌱 I’m currently learning **computer science**
-- 💞️ I’m looking to **collaborate** on music or code
-- 📫 How to reach me : raphael.fluckiger@epfl.ch or raphael.fluckiger@gmail.com
+👋 Hi, I’m @bybel I am
+- ✨ Interested in **computers** and **music**
+- ✨ Currently studying **Cybersecurity** at **EPFL**
+- ✨ Looking to **collaborate** on music or code
+- ✨ How to reach me : raphael.fluckiger@epfl.ch or raphael.fluckiger@gmail.com
 
-**Much love and wish you the best of cheeses**
+**What's your favourite cheese**
 
 <!---
 bybel/bybel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
