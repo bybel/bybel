@@ -3,8 +3,6 @@
 👋 Hi, I’m @bybel I am
 - ✨ Interested in **computers** and **music**
 - ✨ Currently studying **Cybersecurity** at **EPFL**
-- ✨ Looking to **collaborate** on music or code
-- ✨ How to reach me : raphael.fluckiger@epfl.ch or raphael.fluckiger@gmail.com
 
 **What's your favourite cheese**
 
