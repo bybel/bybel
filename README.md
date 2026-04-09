@@ -4,7 +4,7 @@
 - ✨ Interested in **computers** and **music**
 - ✨ Currently studying **Cybersecurity** at **EPFL**
 
-**What's your favourite cheese**
+**Cheese up !**
 
 <!---
 bybel/bybel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
